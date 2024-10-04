@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: hugo-wasmer-starter-002
+owner: jrblazquez
+package: .
